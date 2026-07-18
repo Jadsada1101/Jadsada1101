@@ -27,16 +27,19 @@
 ### 🛠️ Tech Stack
 
 **💻 Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python&perline=8" />
 </p>
 
 **🧩 Frameworks**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express,fastapi&perline=8" />
 </p>
 
 **🔧 Tools & AI**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite&perline=8" />
   <br/>
@@ -47,6 +50,7 @@
 </p>
 
 **☁️ Cloud & DevOps**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,docker&perline=8" />
   <br/>
@@ -56,6 +60,7 @@
 </p>
 
 **🗄️ Database**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
   <br/>

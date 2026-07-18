@@ -24,10 +24,43 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
+**💻 Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,tailwind,git,github,docker,figma,mysql,mongodb,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python&perline=8" />
+</p>
+
+**🧩 Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express,fastapi&perline=8" />
+</p>
+
+**🔧 Tools & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
+
+**☁️ Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfinityFree-FF6600?style=for-the-badge" />
+</p>
+
+**🗄️ Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---

@@ -1,28 +1,28 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Full Stack Developer from Thailand 🇹🇭</h3>
+<h1 align="center">Hi 👋, I'm Jadsada Maoya</h1>
+<h3 align="center">Junior Frontend Developer From Thailand 🇹🇭</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+  <a href="https://jadsada-maoya.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dahqu6tgq/image/upload/v1782051763/icon_tmnmch.ico" alt="portfolio" width="28" height="28" /><br/>
+    <strong>Portfolio</strong>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **โปรเจกต์ของคุณ**
-- 🌱 I'm currently learning **เทคโนโลยีที่กำลังเรียนรู้**
-- 👯 I'm looking to collaborate on **สิ่งที่อยากร่วมงาน**
-- 💬 Ask me about **สิ่งที่ถนัด**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **ข้อมูลสนุกๆ เกี่ยวกับตัวคุณ**
+**I am an Information Technology student at Rajamangala University of Technology Lanna, Lampang. With a passion for web development and technology, I enjoy learning new things and continuously strive to improve my programming skills. In particular, I am highly interested in backend development and database design.**
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -63,54 +63,26 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/jadsada.maoya.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.instagram.com/j.adsada_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:jadsadamaoya90@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/yourusername">yourusername</a> — Thanks for visiting!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Jadsada1101?tab=repositories">Jadsada</a> — Thanks for visiting!</i></p>
